@@ -1,4 +1,4 @@
-# EmoTune
+# Emotune
 Emotune is a *realtime facial expression based music player* which captures the facial expression in real-time and plays music accordingly.
 
 ## Features
